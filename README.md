@@ -63,7 +63,7 @@ Le script **[orelien.py](orelien.py)** analyse chacun des 300 textes, un corpus 
 
 J'avoue avoir été bluffé! Mais si c'était parce que Pangram avait analysé des texte générés avec un vieux modèle? GPT-4 date de 2024, après tout. Cela fait des millénaires en années d'IAG.
 
-J'ai donc généré de nouveaux corpus en utilisant le modèle GPT-6-Luna&nbsp;:
+J'ai donc généré (au moyen des scripts **[redaction-2-moitie.py](redaction-2-moitie.py)** et **[redaction-3-ia.py](redaction-3-ia.py)**) de nouveaux corpus en utilisant le modèle GPT-6-Luna&nbsp;:
 
 * **[100 textes «&nbsp;moitié moitié&nbsp;» avec GPT-6](corpus-2-moitié-GPT6.csv)** et
 * **[100 textes «&nbsp;IA&nbsp;» avec GPT-6](corpus-3-ia-GPT6.csv)**
