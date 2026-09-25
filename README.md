@@ -56,7 +56,7 @@ Le script **[orelien.py](orelien.py)** analyse chacun des 300 textes, un corpus 
 | Corpus ⬇️ \ Catégorie ➡️       | Human | Mixed | AI  | Fiabilité |
 |----------------|-------:|-------:|-----:|-----------:|
 | 1 journaliste  | 100   |       |     | 100%      |
-| 2 moitié       | 3     | 97    |     | 97%       |
+| 2 moitié (GPT-4)       | 3     | 97    |     | 97%       |
 | 3 GPT-4        |       |       | 100 | 100%      |
 
 ## Pangram est-il aussi fiable avec des modèles contemporains?
