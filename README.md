@@ -6,7 +6,7 @@ Test de l'outil de détection d'IA générative [Pangram](https://www.pangram.co
 
 ## Fiabilité discutable des outils de détection de l'IA
 
-En 2023, j'avais fait un premier test avec [GPTZero](https://gptzero.me/fr). Mes résultats ont été publiés dans *La Conversation* sous le titre évocateur de [«&nbsp; J’ai testé un outil de détection de ChatGPT : j’ai perdu mon temps&nbsp;»](https://theconversation.com/jai-teste-un-outil-de-detection-de-chatgpt-jai-perdu-mon-temps-201745).
+En 2023, j'avais fait un premier test avec [GPTZero](https://gptzero.me/fr). Mes résultats ont été publiés dans *La Conversation* sous le titre révélateur de [«&nbsp;J’ai testé un outil de détection de ChatGPT : j’ai perdu mon temps&nbsp;»](https://theconversation.com/jai-teste-un-outil-de-detection-de-chatgpt-jai-perdu-mon-temps-201745).
 
 Pour faire cette expérience, j'avais utilisé un corpus de 900 textes&nbsp;:
 
