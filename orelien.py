@@ -6,8 +6,8 @@ cle = <CLÉ API PANGRAM>
 # fichier = "corpus-1-humain.csv"
 # fichier = "corpus-2-moitié.csv"
 fichier = "corpus-3-ia.csv"
-# fichierOUT = "pangram_gpt-4_testTV.csv"
-fichierOUT = "pangram_gpt-6_testTV.csv"
+# fichierOUT = "pangram_gpt-4.csv"
+fichierOUT = "pangram_gpt-6.csv"
 
 f = open(fichier)
 textes = csv.reader(f)
