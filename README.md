@@ -1,4 +1,4 @@
-README
+![Logo de Pangram](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Pangram_logo.svg/330px-Pangram_logo.svg.png)
 
 # Pangram est-il fiable?
 
