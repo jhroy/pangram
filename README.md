@@ -77,3 +77,7 @@ Les résultats bruts se trouvent dans le fichier **[pangram_gpt-6.csv](pangram_g
 | 3 GPT-6        |       |       | 100 | 100%      |
 
 Impressionnant, certes. Mais il ne faut jamais perdre de vue que de faux positifs sont toujours possibles, comme l'a constaté [François Cardinal](https://www.lapresse.ca/actualites/chroniques/2026-09-23/dans-le-calepin-de-l-editeur-adjoint/thelyson-orelien-la-presse-poursuit-son-enquete.php).
+
+### Pour en savoir plus
+
+Rapport technique complet de la version 4 de Pangram (juillet 2026; en anglais) : **[https://arxiv.org/abs/2607.27183](https://arxiv.org/abs/2607.27183)**
