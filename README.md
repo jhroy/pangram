@@ -18,7 +18,7 @@ Pour faire cette expérience, j'avais utilisé un corpus de 900 textes&nbsp;:
 
 Tous ces groupes de 300 textes étaient structurés de la même manière&nbsp;:
 
-* **[100 articles écrits par des journalistes](corpus-1-humain.csv)**, publiés au cours des cinq dernières années et moissonnés dans les sites web de différents médias canadiens.
+* **[100 articles écrits par des journalistes](corpus-1-humain-tronqué.csv)**, publiés au cours des cinq dernières années et moissonnés dans les sites web de différents médias canadiens (le texte complet des articles a été tronqué aux 100 premiers caractères par respect pour la propriété intellectuelle des éditeurs concernés; l'URL vous permet tout de même d'accéder au texte complet utilisé dans le cadre de cet exercice).
 
 * **100 articles générés en partie par GPT-3** (à l'époque). J’ai pris **[la première partie d’autres articles](départ-2-moitié.csv)** et j’ai demandé à GPT de les compléter avec une commande (*prompt*) ressemblant à : *«&nbsp;Voici le début d’un article, dont le titre est X. Complétez-le avec 1500 à 2500 caractères, pour publication dans un journal canadien.&nbsp;»*
 
